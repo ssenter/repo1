@@ -16,7 +16,6 @@ public class A {
 		sout("weilai");
 		sout("weilai");
 		sout("weilai");
-		sout("weilai");
 		
 			
 	}
