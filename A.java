@@ -7,15 +7,7 @@ public class A {
 		sout("xiaohongxiaohong");
 		sout("xiaohongxiaohong");
 		sout("xiaohongxiaohong");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
-		sout("weilai");
+		
 		
 			
 	}
